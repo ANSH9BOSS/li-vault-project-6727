@@ -1,0 +1,7 @@
+{
+  "name": "LI'S HUB ULTIMATE",
+  "description": "The ultimate AI-powered neural IDE with 20+ expert features including 4D spatial animations, voice engineering, and real-time telemetry.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
